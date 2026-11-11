@@ -22,7 +22,7 @@ Windows 没有提供切换默认输出设备的快捷键，每次插拔耳机都
 
 ### 直接用（推荐）
 
-1. 下载仓库里的 `AudioSwitch.exe`
+1. 从 [Releases 最新版本](https://github.com/gaoyuke/audio-output-switcher/releases/latest) 下载 `AudioSwitch.exe`（仓库根目录也保留了同一份文件）
 2. 双击运行 → 任务栏托盘出现小喇叭图标
 3. 首次启动会弹出设置窗口：确认设备 A / B，点「全局快捷键」输入框后直接按下想要的组合键，点「保存」
 
