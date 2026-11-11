@@ -1,0 +1,21 @@
+# WorkBuddy 本地工作数据（不属于项目源码）
+.workbuddy/
+
+# 编译中间产物
+bin/
+obj/
+*.pdb
+*.exe.config
+*.user
+*.suo
+*.cache
+
+# 本地测试 / 自检临时文件
+_devices.txt
+_dev*.txt
+_check.png
+*.log
+
+# Windows 资源管理器垃圾文件
+Thumbs.db
+Desktop.ini
